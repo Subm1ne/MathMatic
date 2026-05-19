@@ -24,7 +24,7 @@
 ### Eren Doğan — Art
 - Worked on art assets and visual consistency with the chalkboard theme
 - Contributed to UI elements and overall 2D look of menus and gameplay screens
-- Collaborated on integrating art into Unity scenes
+- Collaborated on integrating art into Unity scenes.
 
 ### Nisanur Yılmaz — Audio
 - Researched and selected sound effects (correct/wrong feedback, UI clicks, chalk/erase sounds)
