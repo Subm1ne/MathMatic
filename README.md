@@ -17,7 +17,7 @@
 - Set up editor tools for scene/audio/cursor setup and fixed gameplay/UI bugs during iteration
 
 ### Yusuf Berk Şahan — Art
-- Designed the chalkboard-themed visual style and classroom UI layout
+- Designed the chalkboard-themed visual style and classroom UI layout.
 - Prepared and integrated UI graphics (backgrounds, panels, buttons)
 - Supported visual polish for menus, level select, and in-game screens
 
