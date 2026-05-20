@@ -21,9 +21,9 @@
 - Prepared and integrated UI graphics (backgrounds, panels, buttons)
 - Supported visual polish for menus, level select, and in-game screens
 
-### Eren Doğan — Art
-- Worked on art assets and visual consistency with the chalkboard theme
-- Contributed to UI elements and overall 2D look of menus and gameplay screens
+###  Eren Doğan — Art
+- Worked on art assets and visual consistency with the chalkboard theme.
+- Contributed to UI elements and overall 2D look of menus and gameplay screens.
 - Collaborated on integrating art into Unity scenes.
 
 ### Nisanur Yılmaz — Audio
