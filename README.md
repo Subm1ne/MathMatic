@@ -12,7 +12,7 @@
 - Implemented core game flow (`GameManager`, level progression, timer, scoring, save/unlock via `PlayerPrefs`)
 - Built procedural question system (`QuestionGenerator`) with difficulty scaling across 10 levels
 - Developed UI logic (`UIManager`): menus, level select, feedback panels, and in-game HUD
-- Created chalkboard transition effects (`ChalkboardWipeAnimator`): wipe, empty board, and typewriter-style question reveal
+- Created chalkboard transition effects (`ChalkboardWipeAnimator`): wipe, empty board, and typewriter-style question reveal 
 - Integrated sound hooks for erase/write SFX, correct/wrong feedback, and background music manager
 - Set up editor tools for scene/audio/cursor setup and fixed gameplay/UI bugs during iteration
 
